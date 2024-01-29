@@ -1,0 +1,11 @@
+.rotating-text-01{
+    animation-name: rotateA;
+    animation-duration: 30s;
+    animation-iteration-count: infinite;
+    animation-timing-function: linear;
+  }
+  
+  @keyframes rotateA{
+    from{ transform: rotate(-360deg); }
+    to{ transform: rotate(360deg); }
+  }
