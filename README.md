@@ -1,6 +1,6 @@
 # css rotating svg badge
 
-A simple rotating svg badge, only css infinite loop animation
+A simple rotating Svg badge, using Css & HTML only. Infinite loop animation.
 
 [Frontend Tutorial] How to make a badge with rotating text (infinite loop) for any website? Fast tutorial with Illustrator, Html & Css
 
