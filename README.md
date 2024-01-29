@@ -14,7 +14,9 @@ Step 3. Include your SVG in website/app assets, so your code can access it.
 
 Step 4. Create the basic HTML structure for the badge, it looks like this:
 
+<div>
 <img src="files/Texte-cercle-rotating-01.svg" alt="badge" width="100" height="100" class="rotating-text-01">
+</div>
 
 Class is the important information as we'll use it next for animation ("rotating-text-01").
 
